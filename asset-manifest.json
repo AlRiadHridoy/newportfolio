@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.css": "/static/css/main.ff3d523a.css",
-    "main.js": "/static/js/main.c8a32066.js",
+    "main.css": "/static/css/main.500d9e32.css",
+    "main.js": "/static/js/main.b5ee7eb2.js",
+    "static/media/problem_solving.png": "/static/media/problem_solving.87a32846da7d54ccfcc6.png",
+    "static/media/pythonCir.png": "/static/media/pythonCir.0e04ad11e4d04bd8ffb9.png",
     "static/media/my-self.jpg": "/static/media/my-self.4c9183666f96744b7da6.jpg",
     "static/media/portfolio-1.jpg": "/static/media/portfolio-1.56f2ad51fd8db941baa7.jpg",
-    "static/media/portfolio-3.jpg": "/static/media/portfolio-3.f633a6d14cb89b0383c4.jpg",
     "static/media/portfolio-2.jpg": "/static/media/portfolio-2.046e5ce879e1ac55eb6c.jpg",
-    "static/media/portfolio-4.jpg": "/static/media/portfolio-4.f931f12ea07b5e6e7ff7.jpg",
     "static/media/covid_19.png": "/static/media/covid_19.9ceaa538d881248a6f84.png",
     "static/media/my-icon.png": "/static/media/my-icon.943949b844a38495dab8.png",
     "static/media/react.png": "/static/media/react.86c8d9eba03e29814d2a.png",
@@ -14,11 +14,11 @@
     "static/media/python.png": "/static/media/python.f7f12e1bf59e577656a2.png",
     "static/media/scss.png": "/static/media/scss.5e9edffeb2e392a63e04.png",
     "index.html": "/index.html",
-    "main.ff3d523a.css.map": "/static/css/main.ff3d523a.css.map",
-    "main.c8a32066.js.map": "/static/js/main.c8a32066.js.map"
+    "main.500d9e32.css.map": "/static/css/main.500d9e32.css.map",
+    "main.b5ee7eb2.js.map": "/static/js/main.b5ee7eb2.js.map"
   },
   "entrypoints": [
-    "static/css/main.ff3d523a.css",
-    "static/js/main.c8a32066.js"
+    "static/css/main.500d9e32.css",
+    "static/js/main.b5ee7eb2.js"
   ]
 }
